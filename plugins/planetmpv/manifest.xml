@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+	<title>Modulo Presa Visione</title>
+	<name>planetmpv</name>
+	<author>Planet SRL</author>
+	<version>0.1</version>
+	<category>features</category>
+	<description>Modulo per la presa visione</description>
+</plugin_manifest>

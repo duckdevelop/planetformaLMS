@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<LANGUAGES>
+    <DATE>20210624</DATE>
+    <LANG id="italian">
+        <lang_code>italian</lang_code>
+        <lang_description>Italiano</lang_description>
+        <lang_charset>utf-8</lang_charset>
+        <lang_browsercode>it</lang_browsercode>
+        <lang_direction>ltr</lang_direction>
+        <platform id="all">
+            <module id="storage">
+                <key id="_LONAME_planetmpv" attributes="" save_date="2021-06-24 10:22:43"><![CDATA[Modulo Presa Visione]]></key>
+            </module>
+
+        </platform>
+    </LANG>
+</LANGUAGES>
